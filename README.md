@@ -1,4 +1,4 @@
-# === PROJECT MOVED ===
+# === Range Seek Bar ===
 
 The home repository for this project is: https://github.com/anothem/android-range-seek-bar
 
